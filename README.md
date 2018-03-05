@@ -1,6 +1,6 @@
 # iOS 面试题
 
-## 动画(CoreAnimation)
+## 1.动画(CoreAnimation)
 
 ### 1. 在一个动画的执行过程中，实时打印出当前正在做动画的属性的值
 
